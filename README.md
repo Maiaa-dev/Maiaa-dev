@@ -4,6 +4,7 @@
 
 Meu nome é Aline Maia Guimarães e estou cursando um técnico em Desenvolvimento de Sistemas. Já realizei cursos de Fundamentos do Design Gráfico, além de um curso de conversação com inglês básico. Sou apaixonada por aprender coisas novas. Uso a criatividade, para aplicações únicas, que transmitam exatamente o que a empresa quer, trazendo sempre uma ótima experiência para todos os usuários.
 
+---
 ## Hard Skills < >
 
 <img 
@@ -30,11 +31,11 @@ Meu nome é Aline Maia Guimarães e estou cursando um técnico em Desenvolviment
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<br/>
 ### Soft Skills ⭐
 
-↪ Criatividade
-↪ Trabalho em equipe
-↪ Solução de Problemas 
-↪ Flexibilidade 
+↪ Criatividade <br/>
+↪ Trabalho em equipe <br/>
+↪ Solução de Problemas <br/>
+↪ Flexibilidade <br/>
 ↪ Organização.
