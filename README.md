@@ -46,6 +46,6 @@ Meu nome é Aline Maia Guimarães e estou cursando um técnico em Desenvolviment
 ---
 
 #### Idiomas que estou estudando (Nível básico) 📚
-↪ Inglês 
+↪ Inglês <br/>
 ↪ Italiano 
 
