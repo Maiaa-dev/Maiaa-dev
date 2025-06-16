@@ -1,9 +1,8 @@
 # 🌼Aline Maia 
 
-**`Desenvolvedora Front-End 💻`**
+**`Desenvolvedora e designer 💻`**
 
-Meu nome é Aline Maia Guimarães e estou cursando um técnico em Desenvolvimento de Sistemas. Já realizei cursos de Fundamentos do Design Gráfico, além de um curso de conversação com inglês básico. Sou apaixonada por aprender coisas novas. Uso a criatividade, para aplicações únicas, que transmitam exatamente o que a empresa quer, trazendo sempre uma ótima experiência para todos os usuários.
-
+Meu nome é Aline Maia e estou cursando um técnico em Desenvolvimento de Sistemas. Já realizei cursos de Fundamentos do Design Gráfico, além de um curso de conversação com inglês básico.
 ---
 ## Hard Skills < > 
 
@@ -34,14 +33,6 @@ Meu nome é Aline Maia Guimarães e estou cursando um técnico em Desenvolviment
 
 <br/>
 <br/>
-
-### Soft Skills ⭐
-
-↪ Criatividade <br/>
-↪ Trabalho em equipe <br/>
-↪ Solução de Problemas <br/>
-↪ Flexibilidade <br/>
-↪ Organização.
 
 ---
 
