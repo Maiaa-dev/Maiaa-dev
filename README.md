@@ -3,6 +3,7 @@
 **`Desenvolvedora e designer 💻`**
 
 Meu nome é Aline Maia e estou cursando um técnico em Desenvolvimento de Sistemas. Já realizei cursos de Fundamentos do Design Gráfico, além de um curso de conversação com inglês básico.
+
 ---
 ## Hard Skills < > 
 
