@@ -38,7 +38,7 @@ Meu nome é Aline Maia e estou cursando um técnico em Desenvolvimento de Sistem
     title="C#"
     width="30px" 
     style="padding-right: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
 <br/>
